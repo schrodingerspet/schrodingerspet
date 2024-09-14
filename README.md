@@ -36,29 +36,32 @@ Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering stude
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=schrodingerspet&theme=github" alt="GitHub Activity Graph" />
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+    <!-- GitHub Streak -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=radical" alt="GitHub Streak" />
+
+    <!-- GitHub Activity Graph -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=schrodingerspet&theme=rogue" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## 📊 GitHub Profile Summary
+## 📈 Detailed GitHub Stats
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schrodingerspet&theme=github" alt="GitHub Profile Summary" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=schrodingerspet&theme=github" alt="Top Languages" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=schrodingerspet&theme=github" alt="Most Commit Languages" />
-</p>
-
----
-
-## 🕒 GitHub Productivity Quadrant
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=schrodingerspet&theme=github" alt="GitHub Stats Card" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=schrodingerspet&theme=github&utcOffset=5" alt="Productive Time" />
+    <!-- Profile Summary Card -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schrodingerspet&theme=radical" alt="GitHub Profile Summary" />
+    
+    <!-- Most Used Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schrodingerspet&layout=compact&theme=radical" alt="Most Used Languages" />
+    
+    <!-- Productive Time Graph -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=schrodingerspet&theme=radical&utcOffset=8" alt="GitHub Productive Time" />
 </p>
 
 
