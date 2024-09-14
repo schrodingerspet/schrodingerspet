@@ -36,8 +36,9 @@ Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering stude
 ## 📈 WakaTime Coding Activity
 
 <p align="center">
-    <img src="https://wakatime.com/badge/user/schrodingerspet.svg" alt="WakaTime" />
+    <img src="https://wakatime.com/badge/user/schrodingerspet.svg" alt="WakaTime Coding Activity" />
 </p>
+
 
 ---
 
