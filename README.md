@@ -1,7 +1,6 @@
 # 🐱 Welcome to Schrödinger's Code Box! 📦
 
 ![Schrödinger's Cat Wanted Poster](https://github.com/schrodingerspet/schrodingerspet/assets/161422183/aa3705a1-b0b0-4883-9588-8aa0ac08d404)
-)
 
 [![Status](https://img.shields.io/badge/status-studying%20%26%20coding-brightgreen)](https://en.wikipedia.org/wiki/Computer_engineering)
 [![Sleep](https://img.shields.io/badge/sleep-maybe%3F-red)](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat)
