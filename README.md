@@ -35,22 +35,6 @@ Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering stude
 
 ---
 
-![Wakatime Hours](https://github.com/schrodingerspet/wakatime-hours/assets/49127376/d47625a9-5232-444f-9279-ce30aa69b5ca)
-
-<div align="center">
- <a aria-label="Powered by" href="https://wakatime-hours.deno.dev">
-  <img src="https://img.shields.io/static/v1?label=Powered%20by&message=Deno&color=blue&logo=deno">
- </a>
- <a aria-label="Badge" href="https://wakatime-hours.deno.dev">
-  <img src="https://wakatime-hours.deno.dev/api/badge">
- </a>
- <a aria-label="Github License" href="https://github.com/schrodingerspet/wakatime-hours/blob/main/license.md">
-  <img src="https://img.shields.io/github/license/schrodingerspet/wakatime-hours?color=blue&logo=github&label=License">
- </a>
- <a aria-label="Version" href="https://github.com/schrodingerspet/wakatime-hours/releases">
-  <img src="https://img.shields.io/github/v/release/schrodingerspet/wakatime-hours?color=blue&logo=github&label=Version">
- </a>
-</div>
 
 ## 🏆 GitHub Trophies
 
