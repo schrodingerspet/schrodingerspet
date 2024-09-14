@@ -39,20 +39,28 @@ Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering stude
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=schrodingerspet&theme=rogue" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=schrodingerspet&theme=github" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## 📊 GitHub Quadrant Graph
+## 📊 GitHub Profile Summary
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schrodingerspet&theme=radical" alt="GitHub Profile Summary" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=schrodingerspet&theme=radical" alt="GitHub Stats Card" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=schrodingerspet&theme=radical&utcOffset=8" alt="GitHub Productive Time" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schrodingerspet&theme=github" alt="GitHub Profile Summary" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=schrodingerspet&theme=github" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=schrodingerspet&theme=github" alt="Most Commit Languages" />
 </p>
 
 ---
+
+## 🕒 GitHub Productivity Quadrant
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=schrodingerspet&theme=github" alt="GitHub Stats Card" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=schrodingerspet&theme=github&utcOffset=5" alt="Productive Time" />
+</p>
+
 
 ## 🏆 GitHub Trophies
 
