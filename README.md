@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">
- <img height="50" src="[https://i.pinimg.com/originals/4f/2d/a6/4f2da6dfcf48e48a5715c8a13dcc44f1.gif"](https://img.wattpad.com/4705488d90aeb36f30a92de4c1520a25d4e595e8/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4b2d53484a464b7954592d6d47673d3d2d3137342e313661666536356461636539326139373632363534383032313037322e676966)/>   Welcome to Schrödinger's Code Box 
+ <img height="50" src="https://i.pinimg.com/originals/4f/2d/a6/4f2da6dfcf48e48a5715c8a13dcc44f1.gif"/>   Welcome to Schrödinger's Code Box 
 
  ---
 
