@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">
- <img height="50" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>   Welcome to Schrödinger's Code Box 
+ <img height="50" src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif"/>   Welcome to Schrödinger's Code Box 
 
  ---
 
