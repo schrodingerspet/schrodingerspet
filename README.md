@@ -36,7 +36,7 @@ Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering stude
 
 ---
 
-[![Wakatime Weekly](https://wakatime.com/badge/BRUHusername.svg)](https://wakatime.com/BRUHusername)
+[![Wakatime Weekly](https://wakatime.com/badge/schrodingerspet.svg)](https://wakatime.com/schrodingerspet)
 
 ## 🏆 GitHub Trophies
 
