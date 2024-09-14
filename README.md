@@ -1,7 +1,7 @@
 <div>
 <h1 align="center">
- <img height="50" src="![kakashi](https://github.com/user-attachments/assets/db22c5b6-2d10-441c-87d4-2f5a11f3ffb2)
-"/>   Welcome to Schrödinger's Code Box 
+ <img height="50" src=![kakashi](https://github.com/user-attachments/assets/db22c5b6-2d10-441c-87d4-2f5a11f3ffb2)
+/>   Welcome to Schrödinger's Code Box 
 
  ---
 
