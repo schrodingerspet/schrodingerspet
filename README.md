@@ -16,20 +16,49 @@ Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering stude
 
 ## 🚀 Skills
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+    <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
+</p>
 
-
-- **Focus Areas**: Data Structures, Algorithms, Computer Engineering Concepts, Hackathon
-
+- **Focus Areas**: Data Structures, Algorithms, Computer Engineering Concepts, Hackathons
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=radical)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=schrodingerspet&theme=rogue" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 📊 GitHub Quadrant Graph
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schrodingerspet&theme=radical" alt="GitHub Profile Summary" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=schrodingerspet&theme=radical" alt="GitHub Stats Card" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=schrodingerspet&theme=radical&utcOffset=8" alt="GitHub Productive Time" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=radical" alt="GitHub Trophy" />
+</p>
 
 ---
 
