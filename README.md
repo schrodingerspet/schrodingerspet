@@ -52,7 +52,7 @@ Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering stude
 </p>
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=schrodingerspet&theme=gruvbox" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=schrodingerspet&theme=gruvbox&utcOffset=5" alt="Top Languages" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=schrodingerspet&theme=gruvbox&utcOffset=5" alt="Productive Time" />
 </p>
 
