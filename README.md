@@ -1,12 +1,14 @@
 # 🐱 Welcome to Schrödinger's Code Box! 📦
 
+![Schrödinger's Cat Wanted Poster](https://raw.githubusercontent.com/yourusername/your-repo-name/main/schrodingers-cat-wanted.jpg)
+
 [![Status](https://img.shields.io/badge/status-studying%20%26%20coding-brightgreen)](https://en.wikipedia.org/wiki/Computer_engineering)
 [![Sleep](https://img.shields.io/badge/sleep-maybe%3F-red)](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat)
 [![Code State](https://img.shields.io/badge/code-compiling%20%26%20crashing-yellow)](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat)
 
 ## 👨‍🎓 About Me
 
-Greetings, quantum coders! You've stumbled upon the GitHub repository of a 2nd-year computer engineering student existing in a superposition of coding brilliance and utter confusion. My projects are simultaneously functional and broken until you run them on your machine.
+Greetings, quantum coders! Like the infamous feline above, you've stumbled upon the GitHub repository of a 2nd-year computer engineering student existing in a superposition of coding brilliance and utter confusion. My projects are simultaneously functional and broken until you run them on your machine.
 
 ## 🚀 Schrödinger's Skill Set
 
@@ -46,5 +48,3 @@ Remember, the best way to understand my code is to not look at it. Observation c
 ---
 
 > "My code is like Schrödinger's cat: simultaneously elegant and a catastrophe until runtime." - Me, probably
-
-
