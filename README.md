@@ -36,7 +36,7 @@ Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering stude
 
 ---
 
-[![Wakatime Shield](https://shields.io/wakatime/<schrodingerspet>/<coding time>?style=<flat-square for a square badge with rounded corners>&theme=<Gruvbox Dark>)](https://wakatime.com/<schrodingerspet>)
+[![Wakatime Shield](https://shields.io/wakatime/<schrodingerspet>/<coding_time>?style=<flat-square>&theme=<Gruvbox>)](https://wakatime.com/<schrodingerspet>)
 
 ## 🏆 GitHub Trophies
 
