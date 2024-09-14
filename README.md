@@ -36,11 +36,6 @@ Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering stude
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-</p>
 
 ## 🔥 GitHub Streak
 
