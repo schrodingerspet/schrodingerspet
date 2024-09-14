@@ -8,14 +8,14 @@
 
 ## 👨‍🎓 About Me
 
-Greetings, quantum coders! Like the infamous feline above, you've stumbled upon the GitHub repository of a 2nd-year computer engineering student existing in a superposition of coding brilliance and utter confusion. My projects are simultaneously functional and broken until you run them on your machine.
+Greetings, quantum coders! I'm Aditya Akolkar, also known as @schrodinderspet in the GitHub realm. Like the infamous feline above, I exist in a superposition of coding brilliance and utter confusion as a 2nd-year computer engineering student. My projects are simultaneously functional and broken until you run them on your machine.
 
 ## 🚀 Schrödinger's Skill Set
 
 - Superposition Debugging (bugs exist in all states until observed)
 - Cat-Static Analysis (code is both clean and messy until reviewed)
 - Quantum Commenting (comments that explain everything and nothing)
-- Feline-Driven Development (letting my cat walk on the keyboard for inspiration)
+- Feline-Driven Development (letting the metaphorical cat walk on my keyboard for inspiration)
 
 ## 📊 GitHub Stats
 
@@ -40,11 +40,11 @@ My commit history exists in multiple states simultaneously. Observe a flurry of 
 Reach out via quantum entanglement or, if you insist on classical communication:
 
 - 📧 Email: adi.akolkar12@gmail.com
-- 🐦 Twitter: [@SchroedingerDev](https://twitter.com)
+- 🐦 Twitter: [@schrodinderspet](https://twitter.com/schrodinderspet)
 - 💼 LinkedIn: [linkedin.com/in/aditya-akolkar](https://linkedin.com)
 
 Remember, the best way to understand my code is to not look at it. Observation causes the superposition to collapse into either a brilliant solution or a complete mess!
 
 ---
 
-> "My code is like Schrödinger's cat: simultaneously elegant and a catastrophe until runtime." - Me, probably
+> "My code is like Schrödinger's cat: simultaneously elegant and a catastrophe until runtime." - Aditya Akolkar
