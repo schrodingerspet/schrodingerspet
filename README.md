@@ -39,7 +39,7 @@ My commit history exists in multiple states simultaneously. Observe a flurry of 
 
 Reach out via quantum entanglement or, if you insist on classical communication:
 
-- 📧 Email: schrodinger.coder@quantum-box.edu
+- 📧 Email: adi.akolkar12@gmail.com
 - 🐦 Twitter: [@SchroedingerDev](https://twitter.com)
 - 💼 LinkedIn: [linkedin.com/in/schrodinger-coder-in-training](https://linkedin.com)
 
