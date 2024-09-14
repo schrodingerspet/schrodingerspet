@@ -22,6 +22,7 @@ Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering stude
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
 
+
 - **Focus Areas**: Data Structures, Algorithms, Computer Engineering Concepts, Hackathon
 
 
