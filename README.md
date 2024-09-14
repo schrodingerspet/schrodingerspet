@@ -33,6 +33,12 @@ Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering stude
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=gruvbox" alt="GitHub Streak Stats" />
 </p>
 
+## 📈 WakaTime Coding Activity
+
+<p align="center">
+    <img src="https://wakatime.com/badge/user/schrodingerspet.svg" alt="WakaTime" />
+</p>
+
 ---
 
 
