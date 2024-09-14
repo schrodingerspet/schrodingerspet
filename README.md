@@ -4,6 +4,9 @@
 
  ---
 
+![kakashi](https://github.com/user-attachments/assets/9dbd07d2-291c-4dad-83a3-b0cab0d5245b)
+
+
 ![Schrödinger's Cat Wanted Poster](https://github.com/schrodingerspet/schrodingerspet/assets/161422183/aa3705a1-b0b0-4883-9588-8aa0ac08d404)
 
 [![Status](https://img.shields.io/badge/status-questioning%20my%20life%20choices-brightgreen)](https://en.wikipedia.org/wiki/Existential_crisis)
