@@ -40,7 +40,7 @@ My commit history exists in multiple states simultaneously. Observe a flurry of 
 Reach out via quantum entanglement or, if you insist on classical communication:
 
 - 📧 Email: adi.akolkar12@gmail.com
-- 🐦 Twitter: [@schrodinderspet](https://twitter.com/schrodinderspet)
+- 🐦 Twitter: [@schrodinderspet](https://twitter.com/pawticle_box)
 - 💼 LinkedIn: [linkedin.com/in/aditya-akolkar](https://linkedin.com)
 
 Remember, the best way to understand my code is to not look at it. Observation causes the superposition to collapse into either a brilliant solution or a complete mess!
