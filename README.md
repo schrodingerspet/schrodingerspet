@@ -41,7 +41,7 @@ Reach out via quantum entanglement or, if you insist on classical communication:
 
 - 📧 Email: adi.akolkar12@gmail.com
 - 🐦 Twitter: [@SchroedingerDev](https://twitter.com)
-- 💼 LinkedIn: [linkedin.com/in/schrodinger-coder-in-training](https://linkedin.com)
+- 💼 LinkedIn: [linkedin.com/in/aditya-akolkar](https://linkedin.com)
 
 Remember, the best way to understand my code is to not look at it. Observation causes the superposition to collapse into either a brilliant solution or a complete mess!
 
