@@ -1,41 +1,4 @@
-# 🐱 Welcome to Schrödinger's Code Box! 📦
-
-![Schrödinger's Cat](https://github.com/schrodingerspet/schrodingerspet/assets/161422183/aa3705a1-b0b0-4883-9588-8aa0ac08d404)
-
-[![Status](https://img.shields.io/badge/status-learning%20DSA%20and%20CS%20concepts-brightgreen)](https://en.wikipedia.org/wiki/Data_structure)
-[![Sleep](https://img.shields.io/badge/sleep-intermittent-red)](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat)
-[![Code State](https://img.shields.io/badge/code-DSA%20and%20notes%20in%20progress-yellow)](https://en.wikipedia.org/wiki/Computer_engineering)
-
----
-
-## 👨‍🎓 About Me
-
-Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering student with a passion for coding DSA programs and creating notes for various computer engineering subjects. I use this space to share my learning journey through code, helping others along the way.
-
----
-
-## 🚀 Skills
-
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-</p>
-
-- **Focus Areas**: Data Structures, Algorithms, Computer Engineering Concepts, Hackathons
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=gruvbox" alt="GitHub Streak Stats" />
-</p>
-
----
-
-![Wakatime Hours](https://github.com/schrodingerspet/wakatime-hours/assets/49127376/d47625a9-5232-444f-9279-ce30aa69b5ca)
+![Wakatime Hours](https://github.com/IgorKowalczyk/wakatime-hours/assets/49127376/d47625a9-5232-444f-9279-ce30aa69b5ca)
 
 <div align="center">
  <a aria-label="Powered by" href="https://wakatime-hours.deno.dev">
@@ -44,47 +7,141 @@ Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering stude
  <a aria-label="Badge" href="https://wakatime-hours.deno.dev">
   <img src="https://wakatime-hours.deno.dev/api/badge">
  </a>
- <a aria-label="Github License" href="https://github.com/schrodingerspet/wakatime-hours/blob/main/license.md">
-  <img src="https://img.shields.io/github/license/schrodingerspet/wakatime-hours?color=blue&logo=github&label=License">
+ <a aria-label="Github License" href="https://github.com/igorkowalczyk/wakatime-hours/blob/main/license.md">
+  <img src="https://img.shields.io/github/license/igorkowalczyk/wakatime-hours?color=blue&logo=github&label=License">
  </a>
- <a aria-label="Version" href="https://github.com/schrodingerspet/wakatime-hours/releases">
-  <img src="https://img.shields.io/github/v/release/schrodingerspet/wakatime-hours?color=blue&logo=github&label=Version">
+ <a aria-label="Version" href="https://github.com/igorkowalczyk/wakatime-hours/releases">
+  <img src="https://img.shields.io/github/v/release/igorkowalczyk/wakatime-hours?color=blue&logo=github&label=Version">
  </a>
 </div>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=radical" alt="GitHub Trophy" />
-</p>
-
 ---
 
-## 📝 Current Projects
+> [!IMPORTANT]
+> In order to display your statistics you need to host this API yourself, for this I recommend using [Deno Deploy](https://deno.com/deploy).
 
-1. **DSA Programs**: Implementing data structures and algorithms with practical examples.
-2. **Engineering Notes**: Writing notes on core computer engineering subjects like Operating Systems, Computer Graphics, and Digital Logic Design.
-3. **Small Utility Tools**: Building small tools and scripts to simplify day-to-day tasks in coding and studying.
+> [!NOTE]
+> Don't forget to replace example `YOUR-DEPLOY` parameter with real value.
 
----
+## 🖥️ Hosting with Deno Deploy
 
-## 🤝 Contributions
+1. Fork [this repository](https://github.com/IgorKowalczyk/wakatime-hours)
+2. Go to [Deno Deploy](https://deno.com/deploy) and connect your GitHub account
+3. Click `New Project` and select your forked repository
+4. Select `main` branch
+5. Add `WAKATIME_API_KEY` environment variable with your Wakatime API Key
+6. Click `Link`
+7. Visit `https://YOUR-DEPLOY/api/badge` in your browser
 
-If you'd like to collaborate, feel free to:
-1. **Open an Issue** to discuss any ideas or improvements.
-2. **Fork** the repository, make changes, and submit a **Pull Request**.
-3. **Suggest New Content**: Whether it's a DSA challenge or a new topic for notes, I'm always open to suggestions!
+## 🔩 Self Hosting
 
----
+1. Clone [this repository](https://github.com/igorkowalczyk/wakatime-hours) `git clone https://github.com/IgorKowalczyk/wakatime-hours`
+2. Create new file named `.env` Remember - the file is super secret, better to not share it.
+3. In `.env` file set this values:
+   - `WAKATIME_API_KEY` - Your Wakatime API Key
+   - `PORT` - Port on which the API will be available (optional, default: `8080`)
+4. Run `deno task dev` to start the project in development mode or `deno task start` to run the project in production mode.
+5. Visit `http://localhost:8080` in your browser _(or `http://localhost:${PORT}` if you set custom port)_
 
-## 📬 Contact
+## ▲ Hosting with Vercel
 
-Feel free to reach out:
+<!-- prettier-ignore-start -->
 
-- 📧 **Email**: adi.akolkar12@gmail.com
-- 🐦 **Twitter**: [@pawticle_box](https://twitter.com/pawticle_box)
-- 💼 **LinkedIn**: [linkedin.com/in/aditya-akolkar](https://linkedin.com/in/aditya-akolkar)
+> [!WARNING]
+> **This API no longer supports Vercel hosting.** But if you want to host this API on Vercel, **you can use old version of this API (`>= 2.x.x`)** which is available [here](https://github.com/IgorKowalczyk/wakatime-hours/releases/tag/v2.1.0).
 
----
+<!-- prettier-ignore-end -->
 
-> "The best way to learn is by coding it." - Anonymous
+> **The old version of this API is no longer supported and will not receive any updates!**
+
+## 🗜️ API Usage
+
+```http
+GET https://YOUR-DEPLOY/api/badge?style=${style}&color=${color}&label=${label}
+```
+
+| Parameter | Type     | Description                          | Available values                                | Default value |
+| :-------- | :------- | :----------------------------------- | :---------------------------------------------- | :------------ |
+| `style`   | `string` | **Optional**. The style of the badge | [Available styles](#%EF%B8%8F-available-styles) | `flat`        |
+| `color`   | `string` | **Optional**. The color of the badge | [Available colors](#-custom-colors)             | `blue`        |
+| `label`   | `string` | **Optional**. The label of the badge | Any string                                      | `Wakatime`    |
+
+## 🖼️ Available styles
+
+> [!NOTE]
+> The default style is `flat`
+
+| Style           | Example                                                            | Usage                 |
+| --------------- | ------------------------------------------------------------------ | --------------------- |
+| `flat`          | ![](https://wakatime-hours.deno.dev/api/badge?style=flat)          | `style=flat`          |
+| `flat-square`   | ![](https://wakatime-hours.deno.dev/api/badge?style=flat-square)   | `style=flat-square`   |
+| `for-the-badge` | ![](https://wakatime-hours.deno.dev/api/badge?style=for-the-badge) | `style=for-the-badge` |
+| `plastic`       | ![](https://wakatime-hours.deno.dev/api/badge?style=plastic)       | `style=plastic`       |
+| `social`        | ![](https://wakatime-hours.deno.dev/api/badge?style=social)        | `style=social`        |
+
+> [!NOTE]
+> To apply the style, add to the URL `?style=YOUR-STYLE`, if you use other parameters you can use `&style=YOUR-STYLE`
+
+## 🎨 Custom colors
+
+> [!NOTE]
+> The default color is `blue`
+
+| Color         | Example                                                                     | Usage               | Label Color                                                                      | Label usage              |
+| ------------- | --------------------------------------------------------------------------- | ------------------- | -------------------------------------------------------------------------------- | ------------------------ |
+| `brightgreen` | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&color=brightgreen) | `color=brightgreen` | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&labelColor=brightgreen) | `labelColor=brightgreen` |
+| `green`       | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&color=green)       | `color=green`       | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&labelColor=green)       | `labelColor=green`       |
+| `yellow`      | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&color=yellow)      | `color=yellow`      | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&labelColor=yellow)      | `labelColor=yellow`      |
+| `yellowgreen` | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&color=yellowgreen) | `color=yellowgreen` | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&labelColor=yellowgreen) | `labelColor=yellowgreen` |
+| `orange`      | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&color=orange)      | `color=orange`      | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&labelColor=orange)      | `labelColor=orange`      |
+| `red`         | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&color=red)         | `color=red`         | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&labelColor=red)         | `labelColor=red`         |
+| `blue`        | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&color=blue)        | `color=blue`        | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&labelColor=blue)        | `labelColor=blue`        |
+| `grey`        | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&color=grey)        | `color=grey`        | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&labelColor=grey)        | `labelColor=grey`        |
+| `lightgrey`   | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&color=lightgrey)   | `color=lightgrey`   | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&labelColor=lightgrey)   | `labelColor=lightgrey`   |
+| `blueviolet`  | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&color=blueviolet)  | `color=blueviolet`  | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&labelColor=blueviolet)  | `labelColor=blueviolet`  |
+| `ff69b4`      | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&color=ff69b4)      | `color=ff69b4`      | ![](https://wakatime-hours.deno.dev/api/badge?style=flat&labelColor=ff69b4)      | `labelColor=ff69b4`      |
+
+> [!NOTE]
+> To apply the style, add to the URL `?color=YOUR-COLOR`, if you use other parameters you can use `&color=YOUR-COLOR`
+
+> [!WARNING]
+> HEX colors should be used without `#` symbol prefix.
+
+## 📝 Custom text
+
+You can overwrite default `Wakatime` text with your own label.
+
+![](https://wakatime-hours.deno.dev/api/badge?label=Your+own+label&color=blue)
+
+> [!NOTE]
+> Replace whitespace with `+` character in multi-word labels.
+
+```markdown
+![Wakatime Hours](https://YOUR-DEPLOY/api/badge?label=Your+own+label)
+```
+
+## 📊 Getting Wakatime API Key
+
+1. Go to [Wakatime](https://wakatime.com) and login to your account
+2. Go to [API Keys](https://wakatime.com/settings/api-key) page and copy your API Key
+3. Paste your API Key to `.env` file or add it as environment variable on your hosting
+4. Restart your API if needed
+
+> [!IMPORTANT]
+> Wakatime API Key is super secret, better to not share it. If you share it, anyone can use your API Key to get or modify your statistics.
+
+## ⁉️ Issues
+
+If you come across any errors or have suggestions for improvements, please create a [new issue here](https://github.com/igorkowalczyk/wakatime-hours/issues) and describe it clearly.
+
+## 📥 Pull Requests
+
+When submitting a pull request, please follow these steps:
+
+- Clone [this repository](https://github.com/igorkowalczyk/wakatime-hours) `https://github.com/IgorKowalczyk/wakatime-hours.git`
+- Create a branch from `main` and give it a meaningful name (e.g. `my-awesome-new-feature`).
+- Open a [pull request](https://github.com/igorkowalczyk/wakatime-hours/pulls) on [GitHub](https://github.com/) and clearly describe the feature or fix you are proposing.
+
+## 📋 License
+
+This project is licensed under the MIT. See the [LICENSE](https://github.com/igorkowalczyk/wakatime-hours/blob/main/license.md) file for details
