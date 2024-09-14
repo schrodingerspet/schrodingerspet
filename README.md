@@ -36,7 +36,11 @@ Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering stude
 
 ---
 
+## 📈 WakaTime Coding Activity
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=schrodingerspet&theme=gruvbox" alt="WakaTime Coding Activity" />
+</p>
 
 
 ## 🏆 GitHub Trophies
