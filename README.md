@@ -36,33 +36,42 @@ Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering stude
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-    <!-- GitHub Streak -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=radical" alt="GitHub Streak" />
-
-    <!-- GitHub Activity Graph -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=schrodingerspet&theme=rogue" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
 </p>
 
----
-
-## 📈 Detailed GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-    <!-- Profile Summary Card -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schrodingerspet&theme=radical" alt="GitHub Profile Summary" />
-    
-    <!-- Most Used Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schrodingerspet&layout=compact&theme=radical" alt="Most Used Languages" />
-    
-    <!-- Productive Time Graph -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=schrodingerspet&theme=radical&utcOffset=8" alt="GitHub Productive Time" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=gruvbox" alt="GitHub Streak Stats" />
 </p>
+
+## 📈 WakaTime Coding Activity
+
+<!-- You need to have a WakaTime account and link it to your GitHub for this to work -->
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=schrodingerspet&theme=gruvbox" alt="WakaTime Coding Activity" />
+</p>
+
+## 🌐 GitHub Activity Graph
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=schrodingerspet&theme=gruvbox" alt="GitHub Activity Graph" />
+</p>
+
+## 📦 GitHub Profile Summary
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schrodingerspet&theme=gruvbox" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=schrodingerspet&theme=gruvbox" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=schrodingerspet&theme=gruvbox&utcOffset=5" alt="Productive Time" />
+</p>
+
 
 
 ## 🏆 GitHub Trophies
