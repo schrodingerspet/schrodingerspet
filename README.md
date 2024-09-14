@@ -39,8 +39,9 @@ Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering stude
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=schrodingerspet&theme=rogue" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=schrodingerspet&theme=rogue" alt="GitHub Activity Graph" />
 </p>
+
 
 ---
 
