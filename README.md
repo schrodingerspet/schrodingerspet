@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">
- <img height="50" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9"/>   Welcome to Schrödinger's Code Box 
+ <img height="60" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9"/>   Welcome to Schrödinger's Code Box 
 
  ---
 
