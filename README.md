@@ -1,4 +1,6 @@
-# 🐱 Welcome to **Schrödinger's Code Box** 📦
+<div>
+<h1 align="center">
+ <img height="50" src="https://i.pinimg.com/originals/4f/2d/a6/4f2da6dfcf48e48a5715c8a13dcc44f1.gif"/>   Welcome to **Schrödinger's Code Box       <a href="https://www.buymeacoffee.com/yezerstn" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 21px !important;width: 94px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ![Schrödinger's Cat Wanted Poster](https://github.com/schrodingerspet/schrodingerspet/assets/161422183/aa3705a1-b0b0-4883-9588-8aa0ac08d404)
 
