@@ -21,6 +21,13 @@
     </a>
 </p>
 
+<p align="center">
+   <img src="https://img.shields.io/github/license/schrodingerspet/waka-readme-stats"/>
+   <img src="https://img.shields.io/github/stars/schrodingerspet/waka-readme-stats"/>
+   <img src="https://img.shields.io/github/forks/schrodingerspet/waka-readme-stats"/>
+   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+</p>
+
 
 ---
 
@@ -38,7 +45,6 @@ Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering stude
     <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
     <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
     <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-    <img src="https://private-user-images.githubusercontent.com/74038190/238200433-3fb2cdf6-8920-462e-87a4-95af376418aa.gif" width="100">
 </p>
 
 - **Focus Areas**: Data Structures, Algorithms, Computer Engineering Concepts, Hackathons
