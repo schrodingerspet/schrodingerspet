@@ -90,9 +90,10 @@ Feel free to reach out:
 
 ---
 
-> "The best way to learn is by coding it." - Anonymous
-
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/schrodingerspet/schrodingerspet/output/github-contribution-grid-snake-dark.svg)
+
+
+> "The best way to learn is by coding it." - Anonymous
 
 <h3 align="center">Profile Views:</h3>
 
