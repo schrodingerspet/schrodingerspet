@@ -47,6 +47,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
     <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
     <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+    <img src="https://i.redd.it/nmuax05zxoab1.gif" width="100">
 </p>
 
 - **Focus Areas**: Data Structures, Algorithms, Computer Engineering Concepts, Hackathons, Experimentation, Development.
