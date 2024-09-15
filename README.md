@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=200&fontAlignY=40"/>
+</div>
+
 <h1 align="center">🐱 Welcome to Schrödinger's Code Box! 📦</h1>
 
 <p align="center">
@@ -90,3 +94,15 @@ Feel free to reach out:
 ---
 
 > "The best way to learn is by coding it." - Anonymous
+
+<h3 align="center">Profile Views:</h3>
+
+<p align="center">
+    <a href="https://visitcount.itsvg.in/api?id=schrodingerspet&label=Profile%20Views&color=6&icon=1&pretty=true">
+        <img src="https://visitcount.itsvg.in/api?id=schrodingerspe&label=Profile%20Views&color=6&icon=1&pretty=true" alt="Profile Views">
+    </a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
+</div>
