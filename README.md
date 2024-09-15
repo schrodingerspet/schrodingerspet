@@ -27,7 +27,6 @@
 
 ## 👨‍🎓 About Me
 
-<h4>About me:</h4>
 <div align="start">
 <ul>
     <li>I’m a 19-year-old undergraduate student in computer engineering at AVCOE 🚀</li>
