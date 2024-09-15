@@ -5,9 +5,18 @@
 </p>
 
 
-[![Status](https://img.shields.io/badge/status-learning%20DSA%20and%20CS%20concepts-brightgreen)](https://en.wikipedia.org/wiki/Data_structure)
-[![Sleep](https://img.shields.io/badge/sleep-intermittent-red)](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat)
-[![Code State](https://img.shields.io/badge/code-DSA%20and%20notes%20in%20progress-yellow)](https://en.wikipedia.org/wiki/Computer_engineering)
+<p align="center">
+    <a href="https://en.wikipedia.org/wiki/Data_structure">
+        <img src="https://img.shields.io/badge/status-learning%20DSA%20and%20CS%20concepts-brightgreen" alt="Status Badge" />
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat">
+        <img src="https://img.shields.io/badge/sleep-intermittent-red" alt="Sleep Badge" />
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Computer_engineering">
+        <img src="https://img.shields.io/badge/code-DSA%20and%20notes%20in%20progress-yellow" alt="Code State Badge" />
+    </a>
+</p>
+
 
 ---
 
