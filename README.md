@@ -20,9 +20,8 @@
         <img src="https://img.shields.io/badge/code-DSA%20and%20notes%20in%20progress-yellow" alt="Code State Badge" />
     </a>
     
-<p align="center">
-   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-</p>
+ <a  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+</a>
 
 
 ---
