@@ -1,4 +1,4 @@
-# 🐱 Welcome to Schrödinger's Code Box! 📦
+<h1 align="center">🐱 Welcome to Schrödinger's Code Box! 📦</h1>
 
 <p align="center">
     <img src="https://github.com/schrodingerspet/schrodingerspet/assets/161422183/aa3705a1-b0b0-4883-9588-8aa0ac08d404" alt="Schrödinger's Cat" />
