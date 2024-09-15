@@ -27,7 +27,16 @@
 
 ## 👨‍🎓 About Me
 
-Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering student with a passion for coding DSA programs and creating notes for various computer engineering subjects. I use this space to share my learning journey through code, helping others along the way. Additionally, I am also working on some **private repositories**, experimenting with advanced concepts and new technologies.
+<h4>About me:</h4>
+<div align="start">
+<ul>
+    <li>I’m a 19-year-old undergraduate student in computer engineering at AVCOE 🚀</li>
+    <li>I’m currently developing and maintaining various projects, including DSA programs and engineering notes 🛠️</li>
+    <li>I’m looking to contribute to open source and collaborate on exciting projects 🙌</li>
+    <li>Fun fact: I love experimenting with new technologies and working on advanced concepts 👾</li>
+</ul>
+
+</div>
 
 ---
 
