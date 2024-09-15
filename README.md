@@ -10,7 +10,7 @@
 
 ## 👨‍🎓 About Me
 
-Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering student with a passion for coding DSA programs and creating notes for various computer engineering subjects. I use this space to share my learning journey through code, helping others along the way.
+Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering student with a passion for coding DSA programs and creating notes for various computer engineering subjects. I use this space to share my learning journey through code, helping others along the way. Additionally, I am also working on some **private repositories**, experimenting with advanced concepts and new technologies.
 
 ---
 
@@ -22,7 +22,7 @@ Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering stude
     <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </p>
 
-- **Focus Areas**: Data Structures, Algorithms, Computer Engineering Concepts, Hackathon
+- **Focus Areas**: Data Structures, Algorithms, Computer Engineering Concepts, Hackathons
 
 ---
 
@@ -36,17 +36,15 @@ Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering stude
 ## 📈 WakaTime Coding Activity
 
 <p align="center">
-    <img src="https://wakatime.com/badge/user/schrodingerspet.svg" alt="WakaTime Coding Activity" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=schrodingerspet&theme=gruvbox" alt="WakaTime Coding Activity" />
 </p>
 
-
 ---
-
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=radical" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -55,7 +53,8 @@ Hello! I’m **Aditya Akolkar** (@schrodingerspet), a computer engineering stude
 
 1. **DSA Programs**: Implementing data structures and algorithms with practical examples.
 2. **Engineering Notes**: Writing notes on core computer engineering subjects like Operating Systems, Computer Graphics, and Digital Logic Design.
-3. **Small Utility Tools**: Building small tools and scripts to simplify day-to-day tasks in coding and studying.
+3. **Private Repositories**: Exploring advanced concepts and working on some private projects that push the boundaries of coding.
+4. **Small Utility Tools**: Building small tools and scripts to simplify day-to-day tasks in coding and studying.
 
 ---
 
