@@ -1,6 +1,9 @@
 # 🐱 Welcome to Schrödinger's Code Box! 📦
 
-![Schrödinger's Cat](https://github.com/schrodingerspet/schrodingerspet/assets/161422183/aa3705a1-b0b0-4883-9588-8aa0ac08d404)
+<p align="center">
+    <img src="https://github.com/schrodingerspet/schrodingerspet/assets/161422183/aa3705a1-b0b0-4883-9588-8aa0ac08d404" alt="Schrödinger's Cat" />
+</p>
+
 
 [![Status](https://img.shields.io/badge/status-learning%20DSA%20and%20CS%20concepts-brightgreen)](https://en.wikipedia.org/wiki/Data_structure)
 [![Sleep](https://img.shields.io/badge/sleep-intermittent-red)](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat)
