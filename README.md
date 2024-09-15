@@ -54,17 +54,32 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=gruvbox" alt="GitHub Streak Stats" />
+     <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=gruvbox">
+         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=default">
+         <img src="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=default" alt="GitHub Stats">
+     </picture>
+
+     <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=gruvbox">
+         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=default">
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=default" alt="GitHub Streak Stats">
+     </picture>
 </p>
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=radical" alt="GitHub Trophies" />
+     <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=radical">
+         <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=flat">
+         <img src="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=flat" alt="GitHub Trophies">
+     </picture>
 </p>
+
 
 ---
 
