@@ -35,15 +35,17 @@ I'm constantly exploring new technologies, focusing on Data Structures, Algorith
 ## 📊 GitHub Stats
 
 <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=radical" alt="GitHub Streak" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=default" alt="GitHub Streak" height="150"/>
 </p>
+
 
 ## 🏆 Achievements
 
 <p align="center">
-     <img src="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=default&row=1&column=7" alt="GitHub Trophies"/>
 </p>
+
 
 ## 🚀 Projects I'm Working On
 
