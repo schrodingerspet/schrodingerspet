@@ -50,13 +50,13 @@ I'm constantly exploring new technologies, focusing on Data Structures, Algorith
 
 ## 🏆 Achievements
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=light"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=light" alt="GitHub Trophies"/>
-  </picture>
-</div>
+<p align="center">
+     <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=radical">
+         <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=flat">
+         <img src="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=flat" alt="GitHub Trophies">
+     </picture>
+</p>
 
 
 
