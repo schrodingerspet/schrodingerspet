@@ -34,17 +34,30 @@ I'm constantly exploring new technologies, focusing on Data Structures, Algorith
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=default"/>
     <img src="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=default"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=default" alt="GitHub Streak" height="150"/>
-</p>
+  </picture>
+</div>
 
 
 ## 🏆 Achievements
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=default&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=light"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=schrodingerspet&theme=light" alt="GitHub Trophies"/>
+  </picture>
+</div>
+
 
 
 ## 🚀 Projects I'm Working On
