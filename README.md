@@ -35,17 +35,23 @@ I'm constantly exploring new technologies, focusing on Data Structures, Algorith
 ## 📊 GitHub Stats
 
 <div align="center">
+  <!-- GitHub Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=default"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=github_dark&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=default&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="150"/>
   </picture>
+
+<!-- GitHub Streak -->
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=default"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=default" alt="GitHub Streak" height="150"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=dark&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=default&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=default&hide_border=true" alt="GitHub Streak" height="150"/>
   </picture>
 </div>
+
+
 
 
 ## 🏆 Achievements
