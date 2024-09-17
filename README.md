@@ -35,22 +35,22 @@ I'm constantly exploring new technologies, focusing on Data Structures, Algorith
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats (Extra Wide Version) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=github_dark&hide_border=true"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=default&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="150"/>
-  </picture>
-
-<!-- GitHub Streak -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=dark&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=default&hide_border=true"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=default&hide_border=true" alt="GitHub Streak" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="1000" height="200"/>
   </picture>
 </div>
 
+<!-- GitHub Summary Card -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schrodingerspet&theme=github_dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schrodingerspet&theme=default"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schrodingerspet&theme=default" alt="GitHub Summary Card">
+  </picture>
+</div>
 
 
 
