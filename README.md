@@ -87,7 +87,7 @@ Got an idea, found a bug, or want to chat? Feel free to:
 - 💼 [LinkedIn](https://linkedin.com/in/aditya-akolkar)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/schrodingerspet/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+    <img src="https://raw.githubusercontent.com/schrodingerspet/schrodingerspet/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 > "In coding, every bug is a feature waiting to be discovered." - Aditya Akolkar
