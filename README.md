@@ -1,76 +1,80 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=200&fontAlignY=40"/>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=200&fontAlignY=40"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=0:EEFF00,100:a82da8&height=200&fontAlignY=40"/>
+        <img alt="Header Image" src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=200&fontAlignY=40"/>
+    </picture>
 </div>
 
-<h1 align="center">🐱 Welcome to Schrödinger's Code Box! 📦</h1>
+<!-- Welcome Prompt -->
+<div align="center">
+    
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=1000&color=0ea691&center=true&width=1100&height=100&lines=%3C+ADITYA+AKOLKAR+%2F+%3E)
+</div>
+
+<h1 align="center">🐱 Hey there! Welcome to My Coding Space 🚀</h1>
 
 <p align="center">
-    <img src="https://github.com/schrodingerspet/schrodingerspet/assets/161422183/aa3705a1-b0b0-4883-9588-8aa0ac08d404" alt="Schrödinger's Cat" />
+    <img src="https://github.com/schrodingerspet/schrodingerspet/assets/161422183/aa3705a1-b0b0-4883-9588-8aa0ac08d404" alt="Schrödinger's Cat" width="400"/>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/status-always%20coding-brightgreen" alt="Status"/>
+    <img src="https://img.shields.io/badge/sleep-intermittent-red" alt="Sleep"/>
+    <img src="https://img.shields.io/badge/learning-never%20stops-yellow" alt="Learning"/>
+    <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Give%20it%20a%20Star&style=flat&color=BC4E99" alt="Star Badge"/>
+</p>
+
+## 👋 About Me
+
+Hey! I'm **Aditya**, a 19-year-old Computer Engineering student at AVCOE with a passion for coding. Here's a glimpse into my world:
+
+- 🚀 Crafting efficient DSA programs (or at least trying to)
+- 📚 Writing notes on OS, Digital Logic, and more (they make sense... most of the time)
+- 🎯 Working on private projects aimed at making coding smoother
+- 🛠️ Building small tools that help streamline my workflow
+
+## 🧠 My Skillset
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,androidstudio,vscode,cpp,python,java,gradle,github" />
+</p>
+
+I'm constantly exploring new technologies, focusing on **Data Structures**, **Algorithms**, and all things **Computer Engineering**. I love hackathons and experimenting with code to solve real-world problems.
+
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
+
+<div align="center">
+
+<p align="center">
+<p align="center">
+    <!-- GitHub Stats -->
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=schrodingerspet&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=schrodingerspet&count_private=true&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&rank_icon=github&border_radius=20&hide_border=true"/>
+        <img alt="GitHub Stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=schrodingerspet&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true" width="48%"/>
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=schrodingerspet&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=schrodingerspet&count_private=true&border_radius=20&ring=000000&stroke=000000&background=ffffff&fire=ff0000&currStreakNum=000000&sideNums=000000&datesside=000000&Labelscurr=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&border=000000&hide_border=true"/>
+        <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=schrodingerspet&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true" width="48%"/>
+    </picture>
 </p>
 
 
-<p align="center">
-    <a href="https://en.wikipedia.org/wiki/Data_structure">
-        <img src="https://img.shields.io/badge/status-learning%20DSA%20and%20CS%20concepts-brightgreen" alt="Status Badge" />
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat">
-        <img src="https://img.shields.io/badge/sleep-intermittent-red" alt="Sleep Badge" />
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Computer_engineering">
-        <img src="https://img.shields.io/badge/code-DSA%20and%20notes%20in%20progress-yellow" alt="Code State Badge" />
-    </a>
-      <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+
+
+<a href="https://github.com/schrodingerspet">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=schrodingerspet&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Aditya's%20Github%20Contribution%20Graph">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=schrodingerspet&theme=light&hide_border=true&hide_title=false&area=true&custom_title=Aditya's%20Github%20Contribution%20Graph">
+        <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=schrodingerspet&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Aditya's%20Github%20Contribution%20Graph" width="96%"/>
+    </picture>
 </a>
 
-
----
-
-## 👨‍🎓 About Me
-
-<div align="start">
-<ul>
-    <li>I’m a 19-year-old undergraduate student in computer engineering at AVCOE 🚀</li>
-    <li>I’m currently developing and maintaining various projects, including DSA programs and engineering notes 🛠️</li>
-    <li>I’m looking to contribute to open source and collaborate on exciting projects 🙌</li>
-    <li>Fun fact: I love experimenting with new technologies and working on advanced concepts 👾</li>
-</ul>
-
 </div>
 
----
-
-## 🚀 Skills
-
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,androidstudio,vscode,cpp,python,java,gradle,github" />
-  </a>
-</p>
-
-- **Focus Areas**: Data Structures, Algorithms, Computer Engineering Concepts, Hackathons, Experimentation, Development.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-     <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=gruvbox">
-         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=default">
-         <img src="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=default" alt="GitHub Stats">
-     </picture>
-
- <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=gruvbox">
-         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=default">
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=schrodingerspet&theme=default" alt="GitHub Streak Stats">
-     </picture>
-</p>
-
-
----
-
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
      <picture>
@@ -80,50 +84,29 @@
      </picture>
 </p>
 
+## 🚀 Projects I'm Working On
+
+1. **DSA Wonderland**: Where algorithms come alive (or sometimes break).
+2. **Engineering Brain Dump**: My collection of computer engineering wisdom.
+3. **Private Labs**: Secret projects that I’m experimenting with.
+4. **Productivity Tools**: Small apps to make coding easier and more fun.
+
+## 🤝 Collaborate with Me
+
+Got an idea, found a bug, or want to chat? Feel free to:
+- 🐱 Check out my [GitHub Profile](https://github.com/schrodingerspet)
+- 💬 Connect with me on LinkedIn: [Aditya Akolkar](https://www.linkedin.com/in/aditya-akolkar)
 
 ---
-
-## 📝 Current Projects
-
-1. **DSA Programs**: Implementing data structures and algorithms with practical examples.
-2. **Engineering Notes**: Writing notes on core computer engineering subjects like Operating Systems, Computer Graphics, and Digital Logic Design.
-3. **Private Repositories**: Exploring advanced concepts and working on some private projects that push the boundaries of coding.
-4. **Small Utility Tools**: Building small tools and scripts to simplify day-to-day tasks in coding and studying.
-
----
-
-## 🤝 Contributions
-
-If you'd like to collaborate, feel free to:
-1. **Open an Issue** to discuss any ideas or improvements.
-2. **Fork** the repository, make changes, and submit a **Pull Request**.
-3. **Suggest New Content**: Whether it's a DSA challenge or a new topic for notes, I'm always open to suggestions!
-
----
-
-## 📬 Contact
-
-Feel free to reach out:
-
-- 📧 **Email**: adi.akolkar12@gmail.com
-- 🐦 **Twitter**: [@pawticle_box](https://twitter.com/pawticle_box)
-- 💼 **LinkedIn**: [linkedin.com/in/aditya-akolkar](https://linkedin.com/in/aditya-akolkar)
-
----
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/schrodingerspet/schrodingerspet/output/github-contribution-grid-snake-dark.svg)
-
-
-> "The best way to learn is by coding it." - Anonymous
-
-<h3 align="center">Profile Views:</h3>
 
 <p align="center">
-    <a href="https://visitcount.itsvg.in/api?id=schrodingerspet&label=Profile%20Views&color=6&icon=1&pretty=true">
-        <img src="https://visitcount.itsvg.in/api?id=schrodingerspe&label=Profile%20Views&color=6&icon=1&pretty=true" alt="Profile Views">
-    </a>
+    <img src="https://visitcount.itsvg.in/api?id=schrodingerspet&label=Profile%20Views&color=6&icon=1&pretty=true" alt="Profile Views"/>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=100&section=footer"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=0:EEFF00,100:a82da8&height=100&section=footer"/>
+        <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=100&section=footer" alt="Footer Image"/>
+    </picture>
 </div>
