@@ -10,6 +10,7 @@
 <div align="center">
     
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=1000&color=0ea691&center=true&width=1100&height=100&lines=%3C+ADITYA+AKOLKAR+%2F+%3E)
+</div>
 
 <h1 align="center">🐱 Hey there! Welcome to My Coding Space 🚀</h1>
 
@@ -46,17 +47,22 @@ I'm constantly exploring new technologies, focusing on **Data Structures**, **Al
 <div align="center">
 
 <p align="center">
+<p align="center">
+    <!-- GitHub Stats -->
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=schrodingerspet&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"/>
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=schrodingerspet&count_private=true&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&rank_icon=github&border_radius=20&hide_border=true"/>
         <img alt="GitHub Stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=schrodingerspet&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true" width="48%"/>
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=schrodingerspet&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=schrodingerspet&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true"/>
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=schrodingerspet&count_private=true&border_radius=20&ring=000000&stroke=000000&background=ffffff&fire=ff0000&currStreakNum=000000&sideNums=000000&datesside=000000&Labelscurr=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&border=000000&hide_border=true"/>
         <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=schrodingerspet&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true" width="48%"/>
     </picture>
 </p>
+
+
+
 
 <a href="https://github.com/schrodingerspet">
     <picture>
