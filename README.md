@@ -2,6 +2,12 @@
     <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=200&fontAlignY=40"/>
 </div>
 
+<!--Welcome Prompt --->
+<div align="center">
+    
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=1000&color=0ea691&center=true&width=1100&height=100&lines=%3C+ADITYA+AKOLKAR+%2F+%3E)
+
+
 <h1 align="center">🐱 Hey there! Welcome to My Coding Space 🚀</h1>
 
 <p align="center">
@@ -32,26 +38,23 @@ Hey! I'm Aditya, a 19-year-old Computer Engineering student at AVCOE with a pass
 
 I'm constantly exploring new technologies, focusing on Data Structures, Algorithms, and all things Computer Engineering. I love hackathons and experimenting with code to solve real-world problems.
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <!-- GitHub Stats (Extra Wide Version) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=github_dark&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=default&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=schrodingerspet&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="1000" height="200"/>
-  </picture>
-</div>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
+
+<div align=center>
+
+<p align="center">
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=schrodingerspet&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=schrodingerspet&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
+</p>
+
 
 <!-- GitHub Summary Card -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schrodingerspet&theme=github_dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schrodingerspet&theme=default"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schrodingerspet&theme=default" alt="GitHub Summary Card">
-  </picture>
-</div>
 
+ <a href="https://github.com/schrodingerspet">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=schrodingerspet&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Aditya's%20Github%20Contribution%20Graph%20" width="96%" alt="activity graph">
+    </a>
+</div>
 
 
 ## 🏆 Achievements
