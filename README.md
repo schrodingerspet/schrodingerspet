@@ -104,12 +104,6 @@ Got an idea, found a bug, or want to chat? Feel free to:
 </p>
 
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/schrodingerspet/schrodingerspet/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
-
-
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=100&section=footer"/>
