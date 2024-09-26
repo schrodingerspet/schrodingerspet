@@ -104,8 +104,9 @@ Got an idea, found a bug, or want to chat? Feel free to:
 </p>
 
 
-<!---snake gif Available in Assets-->
-<img width="1000" src="Assets/github-snake.svg" alt="snake"/>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/schrodingerspet/schrodingerspet/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
 
 
 
