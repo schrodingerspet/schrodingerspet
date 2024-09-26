@@ -103,6 +103,11 @@ Got an idea, found a bug, or want to chat? Feel free to:
     <img src="https://visitcount.itsvg.in/api?id=schrodingerspet&label=Profile%20Views&color=6&icon=1&pretty=true" alt="Profile Views"/>
 </p>
 
+
+<!---snake gif Available in Assests-->
+ <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
+
+
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=100&section=footer"/>
