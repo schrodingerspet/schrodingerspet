@@ -104,8 +104,9 @@ Got an idea, found a bug, or want to chat? Feel free to:
 </p>
 
 
-<!---snake gif Available in Assests-->
- <img width="1000" src="Assests/github-snake.svg" alt="snake"/>
+<!---snake gif Available in Assets-->
+<img width="1000" src="Assets/github-snake.svg" alt="snake"/>
+
 
 
 <div align="center">
