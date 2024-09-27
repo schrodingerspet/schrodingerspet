@@ -99,6 +99,7 @@ Got an idea, found a bug, or want to chat? Feel free to:
 - 🐦 Connect with me on Twitter: [@pawticle_box](https://twitter.com/pawticle_box)
 - 📱 Connect with me on Telegram: [@pawticle_box](https://t.me/pawticle_box)
 - 🥇 Check out my Reddit Profile: [@pawticle_box](https://www.reddit.com/user/pawticle_box)
+- 👻 Connect with me on Snapchat: [@pawticle_box](https://www.snapchat.com/add/pawticle_box)
 
 ---
 
