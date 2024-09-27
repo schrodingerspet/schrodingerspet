@@ -94,7 +94,6 @@ I'm constantly exploring new technologies, focusing on **Data Structures**, **Al
 ## 🤝 Collaborate with Me
 
 Got an idea, found a bug, or want to chat? Feel free to:
-- 🐱 Check out my [GitHub Profile](https://github.com/schrodingerspet)
 - 💬 Connect with me on LinkedIn: [Aditya Akolkar](https://www.linkedin.com/in/aditya-akolkar)
 - 🐦 Connect with me on Twitter: [@pawticle_box](https://twitter.com/pawticle_box)
 - 📱 Connect with me on Telegram: [@pawticle_box](https://t.me/pawticle_box)
