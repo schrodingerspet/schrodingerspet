@@ -42,12 +42,21 @@ Hey! I'm **Aditya**, a 19-year-old Computer Engineering student at AVCOE with a 
 
 I'm constantly exploring new technologies, focusing on **Data Structures**, **Algorithms**, and all things **Computer Engineering**. I love hackathons and experimenting with code to solve real-world problems.
 
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
-
-<div align="center">
+## ⏱️ My Coding Activity
 
 <p align="center">
-<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=schrodingerspet&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=00bfbf&icon_color=00bfbf&custom_title=Aditya's%20Coding%20Time&range=last_7_days"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=schrodingerspet&layout=compact&hide_border=true&bg_color=ffffff&text_color=333333&title_color=0366d6&icon_color=0366d6&custom_title=Aditya's%20Coding%20Time&range=last_7_days"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=schrodingerspet&layout=compact&custom_title=Aditya's%20Coding%20Time&range=last_7_days" alt="Aditya's Wakatime Stats" width="70%"/>
+  </picture>
+</p>
     <!-- GitHub Stats -->
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=schrodingerspet&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"/>
@@ -88,7 +97,7 @@ I'm constantly exploring new technologies, focusing on **Data Structures**, **Al
 
 1. **DSA Wonderland**: Where algorithms come alive (or sometimes break).
 2. **Engineering Brain Dump**: My collection of computer engineering wisdom.
-3. **Private Labs**: Secret projects that I’m experimenting with.
+3. **Private Labs**: Secret projects that I'm experimenting with.
 4. **Productivity Tools**: Small apps to make coding easier and more fun.
 
 ## 🤝 Collaborate with Me
