@@ -111,10 +111,9 @@ Got an idea, found a bug, or want to chat? Feel free to:
 
 ---
 
+## 🐍 Contribution Graph
 
-<p align="center">
-    <img src="https://github.com/schrodingerspet/schrodingerspet/blob/main/github-snake.svg" alt="Snake Animation" />
-</p>
+![snake gif](https://github.com/schrodingerspet/schrodingerspet/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
