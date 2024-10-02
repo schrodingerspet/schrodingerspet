@@ -18,10 +18,11 @@ jobs:
         uses: Platane/snk@v2.0.0
         with:
           github_user_name: 'schrodingerspet'
-          svg_out_path: 'github-snake.svg'
-          gif_out_path: 'github-snake.gif'
-          # Remove github_token as it is no longer required.
-          
+          entryPoint: 'entry_point.js'  # Add the correct entry point if required.
+          args: 'args'                    # Add any required arguments.
+          outputs: |
+            github_user_name=${{ github.actor }} # Adjust according to your needs.
+            
       - name: Upload Snake Animation
         uses: actions/upload-artifact@v3
         with:
@@ -29,4 +30,3 @@ jobs:
           path: |
             github-snake.svg
             github-snake.gif
-
