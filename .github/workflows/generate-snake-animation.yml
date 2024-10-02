@@ -13,7 +13,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.MY_TOKEN }}
           user: schrodingerspet # Your GitHub username
 
       # New step to list the contents of the directory
