@@ -15,13 +15,10 @@ jobs:
 
       - name: Generate snake animation
         id: generate-snake
-        uses: Platane/snk@v2.0.0
+        uses: Platane/snk@v2.1.0
         with:
           github_user_name: 'schrodingerspet'
-          outputs: |
-            svg_out_path=github-snake.svg
-            gif_out_path=github-snake.gif
-            
+        
       - name: Upload Snake Animation
         uses: actions/upload-artifact@v3
         with:
