@@ -1,22 +1,24 @@
 name: Generate Snake Animation
-
 on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs at 12am UTC every day
-  workflow_dispatch:  # Allows manual trigger
-
+  schedule: # runs at 12am UTC every day
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v3  # Updated to v3
+        uses: actions/checkout@v2
 
       - name: Generate snake animation
         uses: Platane/snk@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          user: schrodingerspet
+          user: schrodingerspet # Your GitHub username
+
+      # New step to list the contents of the directory
+      - name: List directory contents
+        run: ls -R
 
       - name: Commit and push the result
         run: |
