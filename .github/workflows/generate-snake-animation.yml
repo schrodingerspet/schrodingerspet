@@ -1,36 +1,21 @@
 name: Generate Snake Animation
+
 on:
-  schedule: # runs at 12am UTC every day
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs once a day
+  push: # Optionally trigger on push
+    branches:
+      - main # Change to your default branch if different
+
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout the repository
-        uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Generate snake animation
-        uses: Platane/snk@master
+        uses: platane/snk@master # Replace with the actual repository of the action
         with:
-          github_token: ${{ secrets.MY_TOKEN }} # Use your custom token name
-
-      # New step to list the contents of the directory
-      - name: List directory contents
-        run: ls -R
-
-      - name: Check for svg file
-        run: |
-          if [ -f github-snake.svg ]; then
-            echo "File github-snake.svg exists."
-          else
-            echo "File github-snake.svg does NOT exist."
-          fi
-
-      - name: Commit and push the result
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add github-snake.svg || echo "File github-snake.svg not found, nothing to add"
-          git commit -m "Generated snake animation" || echo "No changes to commit"
-          git push || echo "Nothing to push"
+          github_user_name: ${{ github.actor }}
+          svg_out_path: github-snake.svg
