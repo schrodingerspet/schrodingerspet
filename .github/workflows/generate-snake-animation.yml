@@ -1,21 +1,32 @@
 name: Generate Snake Animation
 
 on:
-  schedule:
-    - cron: '0 0 * * *' # Runs once a day
-  push: # Optionally trigger on push
+  push:
     branches:
-      - main # Change to your default branch if different
+      - main
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
       - name: Generate snake animation
-        uses: platane/snk@master # Replace with the actual repository of the action
+        id: generate-snake
+        uses: Platane/snk@v2.0.0
         with:
-          github_user_name: ${{ github.actor }}
-          svg_out_path: github-snake.svg
+          github_user_name: 'schrodingerspet'
+          svg_out_path: 'github-snake.svg'
+          gif_out_path: 'github-snake.gif'
+          # Remove github_token as it is no longer required.
+          
+      - name: Upload Snake Animation
+        uses: actions/upload-artifact@v3
+        with:
+          name: github-snake
+          path: |
+            github-snake.svg
+            github-snake.gif
+
