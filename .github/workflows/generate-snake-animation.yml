@@ -13,17 +13,24 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@master
         with:
-          github_token: ${{ secrets.MY_TOKEN }}
-          user: schrodingerspet # Your GitHub username
+          github_token: ${{ secrets.MY_TOKEN }} # Use your custom token name
 
       # New step to list the contents of the directory
       - name: List directory contents
         run: ls -R
 
+      - name: Check for svg file
+        run: |
+          if [ -f github-snake.svg ]; then
+            echo "File github-snake.svg exists."
+          else
+            echo "File github-snake.svg does NOT exist."
+          fi
+
       - name: Commit and push the result
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add github-snake.svg
+          git add github-snake.svg || echo "File github-snake.svg not found, nothing to add"
           git commit -m "Generated snake animation" || echo "No changes to commit"
           git push || echo "Nothing to push"
