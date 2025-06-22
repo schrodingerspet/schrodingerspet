@@ -1,0 +1,49 @@
+name: Update GitHub Stats SVG
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 4 * * *" # Runs daily at 4 AM UTC (9:30 AM IST)
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.8'
+
+      - name: Configure pip cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('cache/requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: python -m pip install -r cache/requirements.txt
+
+      - name: Update SVG files
+        env:
+          ACCESS_TOKEN: ${{ secrets.Github_Stats_Token }}
+          USER_NAME: schrodingerspet
+        run: python github_stats.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "github-actions-bot@schrodingerspet.github.io"
+          git config --global user.name "schrodingerspet/GitHub-Actions-Bot"
+          git add light_mode.svg dark_mode.svg
+          git diff --staged --quiet || git commit -m "Updated GitHub stats SVGs" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
