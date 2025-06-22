@@ -105,7 +105,11 @@ def recursive_loc(owner, repo_name, data, cache_comment, addition_total=0, delet
             defaultBranchRef {
                 target {
                     ... on Commit {
+<<<<<<< HEAD
                         history(first:100, after: $cursor) {
+=======
+                        history(first: 100, after: $cursor) {
+>>>>>>> 39e8da0e78b9b2be117448d3d34b72b61d155f47
                             totalCount
                             edges {
                                 node {
@@ -163,7 +167,11 @@ def loc_query(owner_affiliation, comment_size=0, force_cache=False, cursor=None,
     query = '''
     query ($owner_affiliation: [RepositoryAffiliation], $login: String!, $cursor: String) {
         user(login: $login) {
+<<<<<<< HEAD
             repositories(first:60, after: $cursor, ownerAffiliations: $owner_affiliation) {
+=======
+            repositories(first: 60, after: $cursor, ownerAffiliations: $owner_affiliation) {
+>>>>>>> 39e8da0e78b9b2be117448d3d34b72b61d155f47
             edges {
                 node {
                     ... on Repository {
@@ -404,8 +412,12 @@ if __name__ == '__main__':
     user_data, user_time = perf_counter(user_getter, USER_NAME)
     OWNER_ID, acc_date = user_data
     formatter('account data', user_time)
+<<<<<<< HEAD
     # Updated birthday to October 12, 2004
     age_data, age_time = perf_counter(daily_readme, datetime.datetime(2004, 10, 12))
+=======
+    age_data, age_time = perf_counter(daily_readme, datetime.datetime(2004, 10, 12))  # Updated birthday
+>>>>>>> 39e8da0e78b9b2be117448d3d34b72b61d155f47
     formatter('age calculation', age_time)
     total_loc, loc_time = perf_counter(loc_query, ['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER'], 7)
     formatter('LOC (cached)', loc_time) if total_loc[-1] else formatter('LOC (no cache)', loc_time)
@@ -415,6 +427,7 @@ if __name__ == '__main__':
     contrib_data, contrib_time = perf_counter(graph_repos_stars, 'repos', ['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER'])
     follower_data, follower_time = perf_counter(follower_getter, USER_NAME)
 
+<<<<<<< HEAD
     # Commented out since this is specific to Andrew6rant
     # if OWNER_ID == {'id': 'MDQ6VXNlcjU3MzMxMTM0'}:
     #     archived_data = add_archive()
@@ -422,6 +435,15 @@ if __name__ == '__main__':
     #         total_loc[index] += archived_data[index]
     #     contrib_data += archived_data[-1]
     #     commit_data += int(archived_data[-2])
+=======
+    # Archive data is specific to Andrew6rant, so it won't apply unless you have your own archived repos
+    if OWNER_ID == {'id': 'MDQ6VXNlcjU3MzMxMTM0'}:
+        archived_data = add_archive()
+        for index in range(len(total_loc)-1):
+            total_loc[index] += archived_data[index]
+        contrib_data += archived_data[-1]
+        commit_data += int(archived_data[-2])
+>>>>>>> 39e8da0e78b9b2be117448d3d34b72b61d155f47
 
     for index in range(len(total_loc)-1): total_loc[index] = '{:,}'.format(total_loc[index])
 
@@ -433,4 +455,8 @@ if __name__ == '__main__':
         ' s \033[E\033[E\033[E\033[E\033[E\033[E\033[E\033[E', sep='')
 
     print('Total GitHub GraphQL API calls:', '{:>3}'.format(sum(QUERY_COUNT.values())))
+<<<<<<< HEAD
     for funct_name, count in QUERY_COUNT.items(): print('{:<28}'.format('   ' + funct_name + ':'), '{:>6}'.format(count))
+=======
+    for funct_name, count in QUERY_COUNT.items(): print('{:<28}'.format('   ' + funct_name + ':'), '{:>6}'.format(count))
+>>>>>>> 39e8da0e78b9b2be117448d3d34b72b61d155f47
