@@ -7,6 +7,11 @@
 ### 🎓 Computer Engineering @ AVCOE
 ### 💻 Frontend Developer | Android Enthusiast | Linux Tinkerer
 
+
+<p align="center">
+    <img src="https://github.com/schrodingerspet/schrodingerspet/assets/161422183/aa3705a1-b0b0-4883-9588-8aa0ac08d404" alt="Schrödinger's Cat" width="400"/>
+</p>
+
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-akolkar-00a639377/)
@@ -135,3 +140,4 @@ const aditya = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
+
