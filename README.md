@@ -96,21 +96,6 @@ const aditya = {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/schrodingerspet/MARGVEDHA">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=schrodingerspet&repo=MARGVEDHA&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/schrodingerspet/Samudra-Suraksha">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=schrodingerspet&repo=Samudra-Suraksha&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - 🔨 Building modern web applications with **React** and **TailwindCSS**
