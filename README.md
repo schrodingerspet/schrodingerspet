@@ -21,7 +21,7 @@
 
 ```javascript
 const aditya = {
-    location: "Maharashtra, India",
+    location: "India",
     education: "Computer Engineering @ AVCOE",
     role: "Frontend Developer",
     interests: ["Web Development", "Android Development", "Custom ROMs", "Linux"],
