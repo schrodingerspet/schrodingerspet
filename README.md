@@ -27,7 +27,7 @@
 ```javascript
 const aditya = {
     location: "India",
-    education: "Computer Engineering @ AVCOE",
+    education: "Computer Engineer",
     role: "Frontend Developer",
     interests: ["Web Development", "Android Development", "Custom ROMs", "Linux"],
     currentlyLearning: "Jetpack Compose & Advanced React",
