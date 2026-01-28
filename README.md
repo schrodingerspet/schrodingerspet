@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&pause=1000&color=0ea691&center=true&width=1100&height=100&lines=%3C+ADITYA+AKOLKAR+%2F+%3E" alt="Typing SVG" />
 
-### 🎓 Computer Engineering @ AVCOE
+### 🎓 Computer Engineering 
 ### 💻 Frontend Developer | Android Enthusiast | Linux Tinkerer
 
 
