@@ -108,9 +108,6 @@ const aditya = {
 
 <div align="center">
 
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=schrodingerspet&color=blueviolet&style=for-the-badge)
 
