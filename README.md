@@ -22,6 +22,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/schrodingerspet" target="_blank">
+    <img alt="Moe Counter!" src="https://count.getloli.com/@schrodingerspet?name=schrodingerspet&theme=moebooru-h&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=0">
+  </a>
+</p>
+
+---
+
 ## 🚀 About Me
 
 ```javascript
@@ -105,13 +113,6 @@ const aditya = {
 - 🔧 Tinkering with **Custom ROMs** and Android modifications
 
 ---
-
-<div align="center">
-
-### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=schrodingerspet&color=blueviolet&style=for-the-badge)
-
-<br>
 
 **⚡ "Code is like humor. When you have to explain it, it's bad."** – *Cory House*
 
